@@ -1,6 +1,6 @@
 # Hello World! 🌍
 
-Hi there! I'm [Your Name], a passionate developer with expertise in:
+Hi there! I'm Sempiller, a passionate developer with expertise in:
 
 - **JavaScript**
 - **Lua**
