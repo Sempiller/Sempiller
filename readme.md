@@ -1,8 +1,5 @@
 <h1>yeah bab!</h1>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sempiller&show_icons=true&locale=en&layout=compact" alt="sempiller" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sempiller&show_icons=true&locale=en" alt="sempiller" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sempiller&" alt="sempiller" /></p>
+<video width="320" height="240" controls>
+    <source src="(https://video.twimg.com/ext_tw_video/1393449914974281731/pu/vid/1280x720/vL3dA9IK5GN5TREl.mp4?tag=12" type="video/mp4">
+</video>
