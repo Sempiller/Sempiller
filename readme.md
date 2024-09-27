@@ -9,8 +9,8 @@ Hi there! I'm Sempiller, a passionate developer with expertise in:
 - **PHP**
 
 📫 **Contact me:**
-- **Discord:** supremedoritos
-- **Telegram:** Soon
+- **Discord:** kentuckypapi
+- **Telegram:** sempiller
 
 🌟 I love working on exciting projects and exploring new technologies. Feel free to check out my repositories and connect with me!
 
