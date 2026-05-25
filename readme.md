@@ -1,19 +1,18 @@
-# Hello World! 🌍
+# Greetings!
 
 Hi there! I'm Sempiller, a passionate developer with expertise in:
 
-- **JavaScript**
 - **Lua**
 - **Python**
-- **HTML**
-- **PHP**
+- **Go**
 
-📫 **Contact me:**
-- **Discord:** kentuckypapi
-- **Telegram:** sempiller
+**Contact me:**
+- **Discord:** semp.ssh
+- **Telegram:** mwbush
+- **Website:** https://portal.semp.cloud 
 
-🌟 I love working on exciting projects and exploring new technologies. Feel free to check out my repositories and connect with me!
+I love working on exciting projects and exploring new technologies. Feel free to check out my repositories and connect with me!
 
 ---
 
-**Cheers!** 😊
+**Cheers!**
